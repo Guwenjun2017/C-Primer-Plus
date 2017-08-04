@@ -1,4 +1,4 @@
 # First-attempt
 the first try.
 Exame is over.
-My ckaasate are all go back home.
+My claasate are all go back home.
