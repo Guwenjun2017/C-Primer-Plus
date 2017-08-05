@@ -13,4 +13,6 @@ int main(void)
     printf("经单位转换得:\n");
     printf("旅行了%fkm,共消耗了%f升汽油.\n",f_mileage*mileageTokilm,f_gasoline*gallonToliter);
     printf("耗油量%.1f(升/千米)\n",(f_mileage*mileageTokilm)/(f_gasoline*gallonToliter));
+
+    return 0;
 }
