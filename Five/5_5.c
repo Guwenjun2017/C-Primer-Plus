@@ -12,4 +12,6 @@ int main(void)
 	a++;
     }
     printf("总收入:%d\n",i_income);
+
+    return 0;
 }
